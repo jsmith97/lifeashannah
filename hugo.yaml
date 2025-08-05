@@ -3,7 +3,7 @@ languageCode: "en-us"
 title: "Life As Hannah"
 description: "My description:"
 theme: "PaperMod"
-# googleAnalytics: ""
+googleAnalytics: "G-PCEHR6M4NR"
 
 enableRobotsTXT: true
 buildDrafts: false
