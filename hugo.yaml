@@ -41,11 +41,11 @@ params:
   #   URL: "https://github.com/jsmith97/scalablepath/blob/main/content"
   #   Text: "Suggest Changes"
     appendFilePath: true
-  # assets:
-  #   favicon: "/favicon.ico"
-  #   favicon96x96: "/favicon-96x96.png"
-  #   apple_touch_icon: "/apple-touch-icon.png"
-  #   safari_pinned_tab: "/favicon.svg"
+  assets:
+    favicon: "/favicon.ico"
+    favicon96x96: "/favicon-96x96.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon.svg"
 
 menu:
   main:
