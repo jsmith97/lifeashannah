@@ -1,0 +1,60 @@
+baseURL: "https://lifeashannah.com/"
+languageCode: "en-us"
+title: "Life As Hannah"
+description: "My description:"
+theme: "PaperMod"
+# googleAnalytics: ""
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  DateFormat: "2 January, 2006"
+  homeInfoParams:
+    Title: "My Title"
+    Content: >
+      My content
+  socialIcons:
+    # - name: LinkedIn
+    #   url: "https://www.linkedin.com/in/jsmith970"
+  author: Hannah Smith
+  # keywords: [engineering, leadership, cloud, automation, AI]
+  images:
+    - "/images/opengraph.jpg"
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableScrollToTop: false
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+  # editPost:
+  #   URL: "https://github.com/jsmith97/scalablepath/blob/main/content"
+  #   Text: "Suggest Changes"
+    appendFilePath: true
+  # assets:
+  #   favicon: "/favicon.ico"
+  #   favicon96x96: "/favicon-96x96.png"
+  #   apple_touch_icon: "/apple-touch-icon.png"
+  #   safari_pinned_tab: "/favicon.svg"
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Tags
+      url: /tags/
+      weight: 2
+    - name: About
+      url: /about/
+      weight: 3
