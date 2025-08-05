@@ -23,6 +23,8 @@ params:
   socialIcons:
     - name: LinkedIn
       url: "https://www.linkedin.com/in/hannah-smith-33938386"
+    - name: Instagram
+      url: "https://www.instagram.com/hannah_under_the_mask/"
   author: Hannah Smith
   # keywords: [engineering, leadership, cloud, automation, AI]
   images:
