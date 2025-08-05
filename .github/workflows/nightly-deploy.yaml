@@ -1,0 +1,14 @@
+name: Nightly Deploy
+permissions:
+  contents: read
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl -X POST "${{ secrets.NETLIFY_BUILD_HOOK }}"
