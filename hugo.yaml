@@ -21,8 +21,8 @@ params:
     Content: >
       My content
   socialIcons:
-    # - name: LinkedIn
-    #   url: "https://www.linkedin.com/in/jsmith970"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/hannah-smith-33938386"
   author: Hannah Smith
   # keywords: [engineering, leadership, cloud, automation, AI]
   images:
@@ -37,9 +37,6 @@ params:
     hidden: true
     hiddenInList: true
     hiddenInSingle: true
-  # editPost:
-  #   URL: "https://github.com/jsmith97/scalablepath/blob/main/content"
-  #   Text: "Suggest Changes"
     appendFilePath: true
   assets:
     favicon: "/favicon.ico"
