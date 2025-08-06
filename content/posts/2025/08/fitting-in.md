@@ -1,0 +1,22 @@
+---
+date: '2025-08-06T23:40:11+01:00'
+draft: false
+title: 'Fitting In - A Journey To Acceptance'
+---
+I wasted a huge chunk of my life trying to fit in and find acceptance in spaces that I didn’t feel comfortable in. Into friendships that I got nothing out of. Into relationships, workplaces, situations that felt bad to me.
+I always thought that it was because I wasn’t trying hard enough, or I was doing things the wrong way. Mostly I thought, deep down, that I just wasn’t good enough, or that I was irredeemably broken in some way.
+
+I never once stopped to question whether I actually wanted to fit into those places, or with those people. I never once questioned what I was expecting to get out of it. I certainly never stopped to wonder if there was any responsibility on other people to help me feel more welcome or accepted.
+Masking is a word I’m so familiar with, but the feelings that come along with it are really hard to unpack. Because for me it wasn’t always conscious. In fact, it mostly wasn’t. I assumed everyone felt awkward but they were better at hiding it than I was. At pushing through, knowing the right things to say, how to set your face correctly, how to do life in a way I just didn’t understand. I hoped they were all as lost as I was underneath, but of course, it’s not something you can ask people.
+
+When I heard the term ‘imposter syndrome’, used mostly in the world of work, I thought that was proof that everyone else, or at least a large proportion of people, also struggled to feel they were enough. But I now know that I massively misinterpreted that. Imposter syndrome when it comes to your job is a whole different beast to feeling like you aren’t really a human being. That you’re failing at just existing in the world. That you missed the lessons everyone else received about how to make your way through life.
+
+I was smart. I was a good mimic and a quick study. I watched other people all the time. People watching has always fascinated me. But for very specific reasons. I feel like if I just watch closely enough, somehow I’ll finally spot whatever the thing is I’ve been missing all of my life. The secret key to getting it right. Now I know that’s never going to happen, it’s almost a relief.
+
+There are people who I understand, mostly. Those who take the time to build safety with me and who let me ask the questions I need to in order to get a better handle on their thoughts and feelings. Of course, I’ll never know for sure if my assumptions and interpretations are always right, even with these people. I definitely still get it wrong sometimes. But they don’t make me feel on the outside, looking through frosted glass at a world that is warped and distorted. They make me feel like I have a tiny bubble of clarity, with people who make me feel safe and loved. People who accept me just the way I am.
+
+It was always exhausting trying to fit in. Trying to find acceptance that way, the only way that seemed viable. It was scary every time I got it wrong and it never got any easier. The few times I seemingly accidentally happened on the ‘right’ thing to say, I’d be in constant fear of messing up. Because that inevitably happened at some point, and I’d be out on my own again, looking in on a world that was foreign to me.
+
+Now I feel less bothered about fitting in, because I’ve finally realised that I don’t actually want to. Don’t get me wrong, it can still be really painful to be in situations where I don’t feel included, accepted or safe. And these do come up, because that’s life I suppose. But I don’t fight against it so much anymore. I have my little bubble, the people who I feel safe with, and I fit in there. It may be a small space, but it’s where I feel able to be myself, and actually, now I’m more attuned to what my own personal wants and needs are, rather than trying to be what I thought was expected of me, it turns out that just a few people is plenty for me. A few people who genuinely accept me and love me for everything I am.
+
+I would love it if the wider world was more accepting and inclusive, but while it isn’t, I’m happy with the people who make me feel safe. And I’m slowly finding others who get it, a community of other autistic and neurodivergent folk who seem a lot less frightening and an awful lot more approachable. And the best thing is, they get it without having to explain. I hope that every autistic person has that, or finds that, I really really do.
